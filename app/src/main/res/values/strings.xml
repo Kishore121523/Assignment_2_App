@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Options and Views</string>
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+    </string-array>
+
+    <string name="mainPageText">CLICK THE OPTION MENU TO ENTER AND VIEW DETAILS</string>
+
+    <string name="enterDetailsName">Enter Name</string>
+    <string name="enterDetailsAge">Enter Age</string>
+    <string name="rb1">Male</string>
+    <string name="rb2">Female</string>
+    <string name="enterDetailsSubmit">Submit</string>
+
+    <string name="viewDetailsName">Name: </string>
+    <string name="viewDetailsAge">Age: </string>
+    <string name="viewDetailsFavColor">Favourite Color: </string>
+    <string name="viewDetailsGender">Gender: </string>
+
+    <string name="dialogText">Dialog Here</string>
+    <string name="dialogTextClose">Close</string>
+
+    <string name="menu1">Enter Details</string>
+    <string name="menu2">View Details</string>
+
+</resources>

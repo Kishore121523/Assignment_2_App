@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgColor">#222222</color>
+    <color name="accentColor">#f4ae95</color>
+    <color name="actionBarBg">#333333</color>
+    <color name="actionBarBgDark">#282828</color>
+    <color name="popupBg">#212020</color>
+    <color name="halfWhite">#AEC5C4C4</color>
+</resources>

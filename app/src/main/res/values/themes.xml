@@ -1,0 +1,13 @@
+<resources>
+    <style name="Base.Theme.Assignment2_1217545" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/bgColor</item>
+        <item name="colorPrimary">@color/actionBarBg</item>
+        <item name="android:itemBackground">@color/actionBarBgDark</item>
+        <item name="android:textColor">@color/accentColor</item>
+
+    </style>
+
+    <style name="Theme.Assignment2_1217545" parent="Base.Theme.Assignment2_1217545" />
+
+
+</resources>
