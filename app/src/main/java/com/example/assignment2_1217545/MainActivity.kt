@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         return true
     }
 
-    // When one of the action is selected (enter details or view details) call that fragment's kt file
+    // When one of the action is selected (enter details or view details), pass the respective fragment to the handler function
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
             R.id.action_enter_details -> {
