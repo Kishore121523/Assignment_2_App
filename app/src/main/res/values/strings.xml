@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Options and Views</string>
+    <string name="app_name">Menu and Fragments</string>
     <string-array name="colors_array">
         <item>Red</item>
         <item>Blue</item>
